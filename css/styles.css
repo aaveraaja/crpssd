@@ -1,0 +1,22 @@
+/* TAGS */
+body {
+  margin: 0;
+}
+
+/* CLASS */
+.top-container {
+  background-color: black;
+  height: 600px;
+  position: absolute;
+  margin: 0;
+  display: block;
+}
+.band-photo {
+  display: block;
+  width: 50%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
