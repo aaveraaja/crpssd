@@ -4,6 +4,11 @@ body {
   background-color: black;
 }
 
+a:link    {color: #b0b0b0;}
+a:visited {color: #b0b0b0;}
+a:hover   {color: #9b9b9b;}
+a:active  {color: #363636;}
+
 /* CLASS */
 .top-container {
   background-color: black;
@@ -22,14 +27,13 @@ body {
   margin-left: 0;
   /*background-image: linear-gradient(to right, rgba(0,0,0,0), #222831, #222831, rgba(0,0,0,0));*/
   background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0), #595959, #595959, rgba(0,0,0,0), rgba(0,0,0,0));
-  display: inline-block;
+  text-align: center;
 }
 .jump-container-text {
   font-family: "Cinzel", serif;
   font-size: 150%;
   color: #b6b6b6;
-  margin-top: 5px;
-  margin-left: 50%;
+  margin-top: 7px;
 }
 .news-box {
   margin-top: 0;
@@ -55,4 +59,9 @@ body {
   height: 300px;
   width: 300px;
   margin: 0 auto;
+}
+.footnotes {
+  font-family: serif;
+  color: white;
+  text-align: center;
 }
