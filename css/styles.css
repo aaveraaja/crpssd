@@ -25,3 +25,9 @@ body {
   display: inline-block;
   margin-top: 600px;
 }
+.jump-container-text-news {
+  color: grey;
+  position: relative;
+  margin-top: 5px;
+  margin-left: 50%;
+}
