@@ -24,18 +24,35 @@ body {
   background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0), #595959, #595959, rgba(0,0,0,0), rgba(0,0,0,0));
   display: inline-block;
 }
-.jump-container-text-news {
+.jump-container-text {
   font-family: "Cinzel", serif;
   font-size: 150%;
   color: #b6b6b6;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 5px;
   margin-left: 50%;
 }
 .news-box {
-  font-family: "Gentium Basic", serif;
+  margin-top: 0;
+  background-color: black;
+}
+.live-box {
+  margin-top: 0;
+  background-color: black;
+}
+.socialmedia-box {
+  margin-top: 0;
+  background-color: black;
+}
+.box-text {
   margin-top: 0;
   color: #b6b6b6;
-  background-color: black;
+  font-family: "Gentium Basic", serif;
   text-align: center;
+  font-size: 110%;
+}
+.emblem {
+  display: block;
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
 }
