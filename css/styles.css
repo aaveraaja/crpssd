@@ -51,6 +51,7 @@ a:active  {color: #363636;}
   margin: 0 auto;
 }
 .footnotes {
+  margin-top: 60px;
   font-family: serif;
   color: #b6b6b6;
   text-align: center;
