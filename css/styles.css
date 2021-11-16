@@ -17,3 +17,11 @@ body {
   position: relative;
   margin: 0 auto;
 }
+.jump-container {
+  width: 100%;
+  height: 30px;
+  background-color: #222831;
+  position: relative;
+  display: inline-block;
+  margin-top: 600px;
+}
