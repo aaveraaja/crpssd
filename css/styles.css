@@ -1,6 +1,7 @@
 /* TAGS */
 body {
   margin: 0;
+  background-color: black;
 }
 
 /* CLASS */
@@ -19,15 +20,23 @@ body {
 }
 .jump-container {
   width: 100%;
-  height: 30px;
+  height: 42px;
   background-color: #222831;
   position: relative;
   display: inline-block;
   margin-top: 600px;
 }
 .jump-container-text-news {
+  font-family: "Cinzel", sans-serif;
+  font-size: 150%;
   color: grey;
   position: relative;
   margin-top: 5px;
   margin-left: 50%;
+}
+.news-box {
+  margin-top: 0;
+  color: grey;
+  background-color: black;
+  text-align: center;
 }
